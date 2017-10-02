@@ -1,0 +1,23 @@
+﻿  game.cpp
+c:\users\majdi's comp\onedrive\פרויקט סוף\consoleapplication1\consoleapplication1\game.cpp(512): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\majdi's comp\onedrive\פרויקט סוף\consoleapplication1\consoleapplication1\game.cpp(534): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\majdi's comp\onedrive\פרויקט סוף\consoleapplication1\consoleapplication1\game.cpp(1657): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\majdi's comp\onedrive\פרויקט סוף\consoleapplication1\consoleapplication1\game.cpp(1685): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\majdi's comp\onedrive\פרויקט סוף\consoleapplication1\consoleapplication1\game.cpp(2472): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\majdi's comp\onedrive\פרויקט סוף\consoleapplication1\consoleapplication1\game.cpp(2482): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\majdi's comp\onedrive\פרויקט סוף\consoleapplication1\consoleapplication1\game.cpp(2908): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\majdi's comp\onedrive\פרויקט סוף\consoleapplication1\consoleapplication1\game.cpp(2912): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\majdi's comp\onedrive\פרויקט סוף\consoleapplication1\consoleapplication1\game.cpp(2917): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\majdi's comp\onedrive\פרויקט סוף\consoleapplication1\consoleapplication1\game.cpp(3048): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  ConsoleApplication1.vcxproj -> C:\Users\majdi's comp\OneDrive\פרויקט סוף\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\majdi's comp\OneDrive\פרויקט סוף\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
